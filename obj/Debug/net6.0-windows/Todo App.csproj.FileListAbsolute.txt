@@ -1,0 +1,20 @@
+C:\Users\Hp\source\repos\Todo App\bin\Debug\net6.0-windows\Todo App.exe
+C:\Users\Hp\source\repos\Todo App\bin\Debug\net6.0-windows\Todo App.deps.json
+C:\Users\Hp\source\repos\Todo App\bin\Debug\net6.0-windows\Todo App.runtimeconfig.json
+C:\Users\Hp\source\repos\Todo App\bin\Debug\net6.0-windows\Todo App.dll
+C:\Users\Hp\source\repos\Todo App\bin\Debug\net6.0-windows\Todo App.pdb
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App_MarkupCompile.cache
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App_MarkupCompile.lref
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.g.resources
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.dll
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\refint\Todo App.dll
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.pdb
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\Todo App.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Todo App\obj\Debug\net6.0-windows\ref\Todo App.dll
